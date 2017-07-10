@@ -5,7 +5,9 @@ This repo is created to explore NLP concepts and techniques. In the process, I h
 Much of the foundation will be based on the following github repos:
 
 [Edbullen's NLP Chatbot](https://github.com/edbullen/NLPBot)
+
 [Gunther Cox's Chatterbot Framework](https://github.com/gunthercox/ChatterBot)
+
 [Stanford's lecture on Chatbots through CS124](https://web.stanford.edu/class/cs124/lec/chatbot.pdf)
 
 
